@@ -1,1 +1,29 @@
 /* You can add global styles to this file, and also import other style files */
+
+html,
+body {
+  height: 100%;
+}
+
+body {
+  margin: 10px;
+  font-family: Roboto, "Helvetica Neue", sans-serif;
+}
+
+h3 {
+  padding: 15px;
+  color: rgba(63, 63, 239, 0.64);
+  border-radius: 10px;
+  box-shadow: 0 15px 10px rgba(135, 122, 122, 0.469);
+  background: linear-gradient(rgba(28, 142, 235, 0), 50%, rgba(22, 53, 206, 0.342));
+}
+
+.block {
+  padding: 10px 0 10px 0;
+  border-bottom-left-radius: 15px;
+  border-bottom-right-radius: 15px;
+}
+
+.content {
+  padding: 0 15px 0 15px;
+}
