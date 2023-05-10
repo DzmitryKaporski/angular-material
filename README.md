@@ -1,6 +1,6 @@
 ## Deploy: [angular-material](https://angular-material-works.surge.sh/)
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 15.1.5.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.0.0.
 
 
 [![linc](https://i.ibb.co/yVHvhJn/Screenshot-139.png)](https://angular-material-works.surge.sh/)
